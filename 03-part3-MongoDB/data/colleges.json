@@ -1,0 +1,37 @@
+﻿{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c98"),
+  "name" : "Java",
+  "cno" : 1003.0
+}
+{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c99"),
+  "name" : "Python",
+  "cno" : 1002.0
+}
+{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c9a"),
+  "name" : "Php",
+  "intro" : "世界上最好的语言",
+  "cno" : 1005.0
+}
+{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c9b"),
+  "name" : "区块链",
+  "cno" : 1006.0
+}
+{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c9c"),
+  "name" : "大数据",
+  "cno" : 1007.0
+}
+{
+  "_id" : ObjectId("5ba9eb03f40f8c9c641e0c9d"),
+  "name" : "golang",
+  "cno" : 1004.0
+}
+{
+  "_id" : ObjectId("5bab388e1b3c842ddc1414ef"),
+  "name" : "HTML5",
+  "intro" : "打通全栈任督二脉",
+  "cno" : 1001.0
+}

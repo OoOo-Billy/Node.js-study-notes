@@ -1,0 +1,88 @@
+﻿{
+  "_id" : ObjectId("5ba9dc083418eb0d90ad3746"),
+  "name" : "陶老师",
+  "age" : 30.0,
+  "gener" : "女",
+  "cno" : 1003.0,
+  "wages" : 4200.0
+}
+{
+  "_id" : ObjectId("5ba9dd0fab10579411551e85"),
+  "name" : "龙老师",
+  "age" : 34.0,
+  "gener" : "女",
+  "cno" : 1004.0,
+  "wages" : 18000.0
+}
+{
+  "_id" : ObjectId("5ba9dfb1ab10579411551e86"),
+  "name" : "李老师",
+  "age" : 33.0,
+  "gener" : "女",
+  "cno" : 1006.0,
+  "wages" : 10200.0
+}
+{
+  "_id" : ObjectId("5ba9dff0ab10579411551e87"),
+  "name" : "刘老师",
+  "age" : 40.0,
+  "gener" : "男",
+  "cno" : 1002.0,
+  "wages" : 35000.0
+}
+{
+  "_id" : ObjectId("5ba9dff0ab10579411551e88"),
+  "name" : "杨老师",
+  "age" : 32.0,
+  "gener" : "女",
+  "cno" : 1003.0,
+  "wages" : 4200.0
+}
+{
+  "_id" : ObjectId("5ba9dff0ab10579411551e89"),
+  "name" : "黄老师",
+  "age" : 26.0,
+  "gener" : "女",
+  "cno" : 1003.0,
+  "wages" : 3200.0
+}
+{
+  "_id" : ObjectId("5ba9dff0ab10579411551e8a"),
+  "name" : "郭老师",
+  "age" : 25.0,
+  "gener" : "女",
+  "cno" : 1003.0,
+  "wages" : 3200.0
+}
+{
+  "_id" : ObjectId("5ba9dff0ab10579411551e8b"),
+  "name" : "别老师",
+  "age" : 18.0,
+  "gener" : "男",
+  "cno" : 1005.0,
+  "wages" : 2700.0
+}
+{
+  "_id" : ObjectId("5bab402c5eff4c6caf592b38"),
+  "name" : "叶老师",
+  "age" : 32.0,
+  "gener" : "男",
+  "cno" : 1007.0,
+  "wages" : 20000.0
+}
+{
+  "_id" : ObjectId("5bab402e5eff4c6caf592b39"),
+  "name" : "毕老师",
+  "age" : 25.0,
+  "gener" : "男",
+  "cno" : 1001.0,
+  "wages" : 4700.0
+}
+{
+  "_id" : ObjectId("5bab40305eff4c6caf592b3a"),
+  "name" : "刘老师",
+  "age" : 29.0,
+  "gener" : "女",
+  "cno" : 1006.0,
+  "wages" : 8200.0
+}
