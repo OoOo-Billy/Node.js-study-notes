@@ -1,7 +1,6 @@
 //1.加载http模块
 let http = require("http");
 let querystring = require("querystring");//核心模块：把字符串转化成对象;
-let fs = require("fs");
 
 //2.创建服务器
 http.createServer((req, res) => {
