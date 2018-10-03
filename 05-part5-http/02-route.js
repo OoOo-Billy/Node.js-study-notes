@@ -9,7 +9,7 @@ let server = http.createServer((req, res) => {
     //2.1配置路由
     //2.1.1页面配置
     if (req.url === "/page1") {//页面1
-        fs.readFile("./02-route-test1.html", (err, data) => {
+        fs.readFile("./html/02-route-test1.html", (err, data) => {
             if (!err) {
                 res.writeHead(200, {"Content-Type": "text/html;charset=UTF-8"});
                 console.log(data);//二进制数据
@@ -21,7 +21,7 @@ let server = http.createServer((req, res) => {
             }
         })
     } else if (req.url === "/page2") {//页面2
-        fs.readFile("./02-route-test2.html", (err, data) => {
+        fs.readFile("./html/02-route-test2.html", (err, data) => {
             if (!err) {
                 res.writeHead(200, {"Content-Type": "text/html;charset=UTF-8"});
                 res.write("请求test2.html");
@@ -63,7 +63,7 @@ let server = http.createServer((req, res) => {
             }
         })
     }*/
-        
+
     //2.2文件请求失败
     else {
         res.writeHead(404, {"Content-Type": "text/html;charset=UTF-8"});
