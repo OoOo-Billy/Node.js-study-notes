@@ -19,6 +19,7 @@ http.createServer((req, res) => {
         req.once("end", (err) => {
             if (!err) {
                 //console.log(allData);
+                res.writeHead(200,{"Content-Type": "text/html;charset=UTF-8"});
                 res.end("数据上传完毕！");
                 let dataObj = querystring.parse(allData);
                 console.log(dataObj);

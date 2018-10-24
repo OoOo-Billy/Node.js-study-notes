@@ -5,7 +5,8 @@
     <title>Title</title>
 </head>
 <body>
-<form action="http://127.0.0.1:80/postmsg" method="post">
+<form action="http://127.0.0.1:80/postmsg" method="post" enctype="multipart/form-data">
+    <!--enctype="multipart/form-data":不对字符编码。在使用包含文件上传控件的表单时，必须使用该值-->
     <p>姓名：<input type="text" name="name"></p>
     <p>年龄：<input type="text" name="age"></p>
     <p>性别：
